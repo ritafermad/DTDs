@@ -1,0 +1,13 @@
+<!ELEMENT libros (Libro)+>
+<!ELEMENT Libro (Titulo,Comentarios*, Categoria+, Precio?)>
+<!ELEMENT Categoria (#PCDATA)>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Comentarios (#PCDATA)>
+<!ELEMENT Precio (#PCDATA)>
+<!ATTLIST Precio moneda (dol|eur|lib) #REQUIRED>
+<!ATTLIST Libro isbn ID #REQUIRED
+        nivel CDATA #IMPLIED
+        fecha CDATA #REQUIRED
+        paginas CDATA #REQUIRED
+        autor NMTOKENS #IMPLIED
+        editor NMTOKENS #IMPLIED>
