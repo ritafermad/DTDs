@@ -3,4 +3,4 @@
 <!ELEMENT libro EMPTY>
 <!ATTLIST libro autor NMTOKEN #REQUIRED>
 ]>
-<libro autor="Mario Vargas LLosa"/>
+<libro autor="Mario-Vargas-LLosa"/>
