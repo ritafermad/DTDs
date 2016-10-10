@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partidos [
+<!ELEMENT partidos (partido)*>
+<!ELEMENT partido (equipo)*>
+<!ELEMENT equipo (#PCDATA)>
+<!ATTLIST equipo goles CDATA #REQUIRED>
+]>
+
+<partidos>
+<partido>
+<equipo goles="0">Nottingham Presa</equipo>
+<equipo goles="1">Inter de Mitente</equipo>
+</partido>
+<partido>
+<equipo goles="3">Vodka Junior</equipo>
+<equipo goles="3">Sparta da Risa</equipo>
+</partido>
+<partido>
+<equipo goles="4">Water de Munich</equipo>
+<equipo goles="2">Esteaua es del grifo</equipo>
+</partido>
+</partidos>
