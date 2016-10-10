@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libros SYSTEM "file:///E:/Lenguajes%20de%20Marcas/DD%20BLOQUE5!!!/5_3.dtd">
+
+<libros>
+<Libro isbn="cero" fecha="02/12/07" paginas="24"  > 
+<Titulo>Hansel y Gretel</Titulo>
+<Comentarios>un comentario</Comentarios>
+<Categoria>Infantil</Categoria>
+</Libro>
+</libros>
