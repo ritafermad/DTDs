@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partidos [
+<!ELEMENT partidos (partido)*>
+<!ELEMENT partido EMPTY>
+<!ATTLIST partido equipo1 CDATA #REQUIRED>
+<!ATTLIST partido equipo2 CDATA #REQUIRED>
+<!ATTLIST partido goles1 CDATA #REQUIRED>
+<!ATTLIST partido goles2 CDATA #REQUIRED>
+]>
+
+<partidos>
+<partido equipo1="Nottingham Presa" goles1="0" equipo2="Inter de Mitente" goles2="1"/>
+<partido equipo1="Vodka Junior" goles1="3" equipo2="Sparta da Risa" goles2="3"/>
+<partido equipo1="Water de Munich" goles1="4" equipo2="Esteaua es del grifo" goles2="2"/>
+</partidos>
