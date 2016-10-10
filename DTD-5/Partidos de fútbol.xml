@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partidos [
+<!ELEMENT partidos (partido)*>
+<!ELEMENT partido (equipo, goles)*>
+<!ELEMENT equipo (#PCDATA)>
+<!ELEMENT goles (#PCDATA)>
+]>
+
+<partidos>
+<partido>
+<equipo>Nottigham Presa</equipo>
+<goles>0</goles>
+<equipo>Inter de Mitente</equipo>
+<goles>1</goles>
+</partido>
+<partido>
+<equipo>Vodka Juniors</equipo>
+<goles>3</goles>
+<equipo>Sparta Da Risa</equipo>
+<goles>3</goles>
+</partido>
+<partido>
+<equipo>Vodka Juniors</equipo>
+<goles>3</goles>
+<equipo>Sparta da Risa</equipo>
+<goles>3</goles>
+</partido>
+<partido>
+<equipo>Water de Munich</equipo>
+<goles>4</goles>
+<equipo>Esteaua es del grifo</equipo>
+<goles>2</goles>
+</partido>
+</partidos>
