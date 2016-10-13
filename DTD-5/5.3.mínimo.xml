@@ -4,7 +4,6 @@
 <libros>
 <Libro isbn="cero" fecha="02/12/07" paginas="24"  > 
 <Titulo>Hansel y Gretel</Titulo>
-<Comentarios>un comentario</Comentarios>
 <Categoria>Infantil</Categoria>
 </Libro>
 </libros>
