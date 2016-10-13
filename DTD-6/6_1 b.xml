@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE song SYSTEM "file:///E:/Lenguajes%20de%20Marcas/Git/DTDs/DTD-6/6_1.dtd">
+
+<song length="6.20" anio="1978">
+  <title>Hot Cop</title>
+  <composers>
+    <composer> 
+     <nombre>Henry</nombre> 
+      <apellidos>Beolo</apellidos>
+   </composer>
+</composers>
+<producers>
+    <producer>
+      <nombre>Jacques</nombre>
+      <apellidos>Morali</apellidos>
+     </producer>
+</producers>
+<publisher>PolyGram</publisher>
+<artists>
+<artist>Village People</artist>
+</artists>
+</song>
