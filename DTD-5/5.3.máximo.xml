@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libros SYSTEM "file:///E:/Lenguajes%20de%20Marcas/DD%20BLOQUE5!!!/5_3.dtd">
+<libros>
+<Libro isbn="i0210231124" 
+            nivel="bajo" 
+            fecha="14-04-1994"
+            paginas="24" 
+            autor="Hermanos Grimm" 
+            editor="Yo-que-se"> 
+<Titulo>Hansel y Gretel</Titulo>
+<Comentarios>¡Muy buen libro!</Comentarios>
+<Comentarios>Me trae recuerdos de la infancia.</Comentarios>
+<Categoria>Infantil</Categoria>
+<Categoria>Juvenil</Categoria>
+<Categoria>Fábula</Categoria>
+<Precio moneda ="eur">14€</Precio>
+</Libro>
+<Libro isbn="i0210201932" 
+            nivel="alto" 
+            fecha="14-04-1994"
+            paginas="200" 
+            autor="Jane Eyre" 
+            editor="BritishEditor"> 
+<Titulo>Jane Eyre</Titulo>
+<Comentarios>¡Muy buen libro!</Comentarios>
+<Comentarios>Me trae recuerdos de la infancia.</Comentarios>
+<Categoria>Infantil</Categoria>
+<Categoria></Categoria>
+<Precio moneda ="eur">14€</Precio>
+</Libro>
+</libros>
